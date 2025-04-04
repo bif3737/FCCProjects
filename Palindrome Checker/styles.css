@@ -1,0 +1,59 @@
+body {
+    background-color: #0a0a23;
+    color: white;
+    font-family: Arial;
+}
+
+.content {
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    position: relative;
+    padding: 150px;
+}
+
+.palindrome {
+    background-color: white;
+    color: black;
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+}
+
+
+.result {
+    display: block;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    border-radius: 10%;
+}
+
+input {
+    border: none;
+    border-bottom: 2px solid purple;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  */
